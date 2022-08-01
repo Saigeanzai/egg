@@ -1,0 +1,18 @@
+{
+  "parent": "minecraft:item/generated",
+"textures": {
+  "layer0": "egg:item/rock"
+
+
+}
+
+
+
+
+
+
+
+
+
+
+}

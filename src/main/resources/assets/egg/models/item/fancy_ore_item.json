@@ -1,0 +1,14 @@
+{
+  "parent": "egg:block/fancy_ore",
+  "textures": {
+    "layer0": "egg:item/fancy_ore_item"
+  }
+
+
+
+
+
+
+
+
+}
