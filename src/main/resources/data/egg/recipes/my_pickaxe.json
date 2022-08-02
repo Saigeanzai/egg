@@ -1,0 +1,18 @@
+{
+  "group": "egg",
+  "type": "minecraft:smelting",
+  "ingredient":
+  {
+    "item": "egg:fancy_ore_item"
+  },
+  "result":
+  {
+    "item": "egg:my_pickaxe",
+    "count":1
+  },
+  "exprerience": 100,
+  "cookingtime": 2
+}
+
+
+

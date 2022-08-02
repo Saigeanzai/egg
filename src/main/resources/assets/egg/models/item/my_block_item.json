@@ -1,0 +1,6 @@
+{
+  "parent": "egg:block/my_block",
+  "textures": {
+    "layer0": "egg:item/my_block_item"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "group":"egg",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients":[
+    {
+      "item": "minecraft:redstone"
+    },
+    {
+      "item": "minecraft:stone"
+    }
+
+  ],
+  "result":
+  {
+    "item": "egg:fancy_ore_item",
+    "count": 9
+  }
+}

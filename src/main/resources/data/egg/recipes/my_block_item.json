@@ -1,0 +1,18 @@
+{
+  "group":"egg",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients":[
+    {
+      "item": "minecraft:yellow_wool"
+    },
+    {
+      "item": "minecraft:blue_wool"
+    }
+
+  ],
+  "result":
+  {
+    "item": "egg:my_block_item",
+    "count": 9
+  }
+}

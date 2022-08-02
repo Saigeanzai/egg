@@ -4,7 +4,10 @@
   "item.egg.my_axe": "cake axe",
   "item.egg.my_shovel": "cake shovel",
   "item.egg.my_hoe": "cake hoe",
-  "item.egg.my_bow": "cake bow"
-
-
+  "item.egg.my_bow": "cake bow",
+  "item.egg.my_mouse": "mouse hoe",
+  "item.egg.my_dog": "dog axe",
+  "item.egg.my_cat": "cat pickaxe",
+  "item.egg.my_fish": "fish sword",
+  "item.egg.big_rabbit": "rabbit shovel"
 }
