@@ -43,11 +43,19 @@ public static final RegistryObject<Item>MY_PICKAXE = ITEMS.register("my_pickaxe"
     public static final RegistryObject<Item>MY_BLOBB = ITEMS.register("my_blobb", ()-> new ShovelItem(ItemTier.DIAMOND, 3, -1.08f, new Item.Properties().tab(ItemGroup.TAB_TOOLS)));
     public static final RegistryObject<Item>MY_BLOBBIE = ITEMS.register("my_blobbie", ()-> new HoeItem(ItemTier.DIAMOND, 1, -1.08f, new Item.Properties().tab(ItemGroup.TAB_TOOLS)));
     public static final RegistryObject<Item>MY_BLOBSWORD = ITEMS.register("my_blobsword", ()-> new SwordItem(ItemTier.DIAMOND, 14, -1.08f, new Item.Properties().tab(ItemGroup.TAB_TOOLS)));
-    public static final RegistryObject<Item>MY_BOB = ITEMS.register("my_bob", ()-> new BowItem( new Item.Properties().tab(ItemGroup.TAB_TOOLS).stacksTo(1)));
     public static final RegistryObject<Item>MY_CARSWORD = ITEMS.register("my_carsword", ()-> new SwordItem(ItemTier.DIAMOND, 14, -1.08f, new Item.Properties().tab(ItemGroup.TAB_TOOLS)));
     public static final RegistryObject<Item>MY_CUPCAKE= ITEMS.register("my_cupcake", ()-> new BowItem( new Item.Properties().tab(ItemGroup.TAB_TOOLS).stacksTo(1)));
     public static final RegistryObject<Item>MY_RAINBOW= ITEMS.register("my_rainbow", ()-> new BowItem( new Item.Properties().tab(ItemGroup.TAB_TOOLS).stacksTo(1)));
     public static final RegistryObject<Item>MY_EGGS= ITEMS.register("my_eggs", ()-> new BowItem( new Item.Properties().tab(ItemGroup.TAB_TOOLS).stacksTo(1)));
+    public static final RegistryObject<Item>MY_BOW_W= ITEMS.register("my_bow_w", ()-> new BowItem( new Item.Properties().tab(ItemGroup.TAB_TOOLS).stacksTo(1)));
+    public static final RegistryObject<Item>MY_AXE_X= ITEMS.register("my_axe_x", ()-> new AxeItem(ItemTier.DIAMOND, 9, -1.08f, new Item.Properties().tab(ItemGroup.TAB_TOOLS)));
+    public static final RegistryObject<Item>MY_SWORD_S = ITEMS.register("my_sword_s", ()-> new SwordItem(ItemTier.DIAMOND, 14, -1.08f, new Item.Properties().tab(ItemGroup.TAB_TOOLS)));
+    public static final RegistryObject<Item>MY_BOOW = ITEMS.register("my_boow", ()-> new BowItem( new Item.Properties().tab(ItemGroup.TAB_TOOLS).stacksTo(1)));
+    public static final RegistryObject<Item>MY_LEONEED = ITEMS.register("my_leoneed", ()-> new BowItem( new Item.Properties().tab(ItemGroup.TAB_TOOLS).stacksTo(1)));
+    public static final RegistryObject<Item>MY_VIVID = ITEMS.register("my_vivid", ()-> new BowItem( new Item.Properties().tab(ItemGroup.TAB_TOOLS).stacksTo(1)));
+    public static final RegistryObject<Item>MY_MOREMORE = ITEMS.register("my_moremore", ()-> new BowItem( new Item.Properties().tab(ItemGroup.TAB_TOOLS).stacksTo(1)));
+    public static final RegistryObject<Item>MY_NIGHTCORD = ITEMS.register("my_nightcord", ()-> new BowItem( new Item.Properties().tab(ItemGroup.TAB_TOOLS).stacksTo(1)));
+    public static final RegistryObject<Item>MY_WONDERLAND = ITEMS.register("my_wonderland", ()-> new BowItem( new Item.Properties().tab(ItemGroup.TAB_TOOLS).stacksTo(1)));
 
 
 }
